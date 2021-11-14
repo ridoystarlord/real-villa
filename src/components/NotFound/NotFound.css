@@ -1,0 +1,13 @@
+.notfound {
+    font-size: 280px !important;
+    -webkit-text-fill-color: #ffffff;
+    -webkit-text-stroke-width: 1px
+;
+    -webkit-text-stroke-color: #001935;
+  }
+
+@media only screen and (max-width: 600px) {
+    .notfound {
+      font-size: 150px !important;
+    }
+  }

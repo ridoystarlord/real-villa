@@ -1,0 +1,19 @@
+.bg-hero-banner{
+    background-image: url("../../../images/hero-banner.jpg");
+    height: 80vh;
+    background-size: cover;
+}
+.bg-hero-banner-color{
+    background-color: rgba(0, 0, 0, 0.5);
+    height: 80vh;
+}
+.explore-btn:hover{
+    background-color: #26ae61 !important;
+}
+
+@media only screen and (max-width: 600px) {
+    .hero-title{
+        font-size: 45px !important;
+    }
+  }
+  

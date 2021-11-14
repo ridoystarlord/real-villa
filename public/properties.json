@@ -1,0 +1,134 @@
+[
+    {
+        
+        "propertyName": "Luxury House in New York",
+        "price": 230000,
+        "description": "The home features private entry copper-clad door leading to salon with marble floors. Stunning great room has soaring 45 foot ceilings with glass windows, polished concrete floors, exposed brick & sculptural steel beams. The chef's kitchen has honed granite counters, high-end S/S appliances, French cabinets & gas range.",
+        "img": "https://i.ibb.co/1TShQB4/property-1.jpg",
+        "bath": 3,
+        "bedrooms":6,
+        "garages":2,
+        "size":720,
+        "buildin": "10/6/2020",
+        "amenities":"Air Conditoner,Dishwasher,Parking,Balcony,Bedding,Pool,Internet,Cable TV,Fridge"
+    },
+    {
+       
+        "propertyName": "Villa House in Los Angeles",
+        "price": 330000,
+        "description": "The home features private entry copper-clad door leading to salon with marble floors. Stunning great room has soaring 45 foot ceilings with glass windows, polished concrete floors, exposed brick & sculptural steel beams. The chef's kitchen has honed granite counters, high-end S/S appliances, French cabinets & gas range.",
+        "img": "https://i.ibb.co/6BjwkKJ/property-2.jpg",
+        "bath": 4,
+        "bedrooms":5,
+        "garages":2,
+        "size":1980,
+        "buildin": "10/6/2020",
+        "amenities":"Air Conditoner,Dishwasher,Parking,Balcony,Bedding,Pool,Internet,Cable TV,Fridge"
+    },
+    {
+       
+        "propertyName": "Family House in San Francisco",
+        "price": 430000,
+        "description": "The home features private entry copper-clad door leading to salon with marble floors. Stunning great room has soaring 45 foot ceilings with glass windows, polished concrete floors, exposed brick & sculptural steel beams. The chef's kitchen has honed granite counters, high-end S/S appliances, French cabinets & gas range.",
+        "img": "https://i.ibb.co/n89MjnY/property-3.jpg",
+        "bath": 6,
+        "bedrooms":16,
+        "garages":4,
+        "size":9820,
+        "buildin": "10/6/2020",
+        "amenities":"Air Conditoner,Dishwasher,Parking,Balcony,Bedding,Pool,Internet,Cable TV,Fridge"
+    },
+    {
+        
+        "propertyName": "Luxury House in Toronto",
+        "price": 230000,
+        "description": "The home features private entry copper-clad door leading to salon with marble floors. Stunning great room has soaring 45 foot ceilings with glass windows, polished concrete floors, exposed brick & sculptural steel beams. The chef's kitchen has honed granite counters, high-end S/S appliances, French cabinets & gas range.",
+        "img": "https://i.ibb.co/Fxcy5Yn/property-4.jpg",
+        "bath": 3,
+        "bedrooms":6,
+        "garages":2,
+        "size":1020,
+        "buildin": "10/6/2020",
+        "amenities":"Air Conditoner,Dishwasher,Parking,Balcony,Bedding,Pool,Internet,Cable TV,Fridge"
+    },
+    {
+        
+        "propertyName": "Condo House in Miami",
+        "price": 530000,
+        "description": "The home features private entry copper-clad door leading to salon with marble floors. Stunning great room has soaring 45 foot ceilings with glass windows, polished concrete floors, exposed brick & sculptural steel beams. The chef's kitchen has honed granite counters, high-end S/S appliances, French cabinets & gas range.",
+        "img": "https://i.ibb.co/qgrnGmB/property-5.jpg",
+        "bath": 4,
+        "bedrooms":9,
+        "garages":1,
+        "size":1999,
+        "buildin": "10/6/2020",
+        "amenities":"Air Conditoner,Dishwasher,Parking,Balcony,Bedding,Pool,Internet,Cable TV,Fridge"
+    },
+    {
+        
+        "propertyName": "Luxury House in Chicago",
+        "price": 630000,
+        "description": "The home features private entry copper-clad door leading to salon with marble floors. Stunning great room has soaring 45 foot ceilings with glass windows, polished concrete floors, exposed brick & sculptural steel beams. The chef's kitchen has honed granite counters, high-end S/S appliances, French cabinets & gas range.",
+        "img": "https://i.ibb.co/MGDXJj5/property-6.jpg",
+        "bath": 5,
+        "bedrooms":10,
+        "garages":5,
+        "size":999,
+        "buildin": "10/6/2020",
+        "amenities":"Air Conditoner,Dishwasher,Parking,Balcony,Bedding,Pool,Internet,Cable TV,Fridge"
+    },
+    {
+        
+        "propertyName": "Beach Side House",
+        "price": 130000,
+        "description": "The home features private entry copper-clad door leading to salon with marble floors. Stunning great room has soaring 45 foot ceilings with glass windows, polished concrete floors, exposed brick & sculptural steel beams. The chef's kitchen has honed granite counters, high-end S/S appliances, French cabinets & gas range.",
+        "img": "https://i.ibb.co/09f7fGq/property-7.jpg",
+        "bath": 3,
+        "bedrooms":6,
+        "garages":2,
+        "size":1099,
+        "buildin": "10/6/2020",
+        "amenities":"Air Conditoner,Dishwasher,Parking,Balcony,Bedding,Pool,Internet,Cable TV,Fridge"
+    },
+    {
+        
+        "propertyName": "Gorgeous Villa",
+        "price": 290000,
+        "description": "The home features private entry copper-clad door leading to salon with marble floors. Stunning great room has soaring 45 foot ceilings with glass windows, polished concrete floors, exposed brick & sculptural steel beams. The chef's kitchen has honed granite counters, high-end S/S appliances, French cabinets & gas range.",
+        "img": "https://i.ibb.co/SmZk6F0/property-8.jpg",
+        "bath": 3,
+        "bedrooms":9,
+        "garages":4,
+        "size":1500,
+        "buildin": "10/6/2020",
+        "amenities":"Air Conditoner,Dishwasher,Parking,Balcony,Bedding,Pool,Internet,Cable TV,Fridge"
+    },
+    {
+        
+        "propertyName": "Luxury villa in Rego Park",
+        "price": 1000000,
+        "description": "The home features private entry copper-clad door leading to salon with marble floors. Stunning great room has soaring 45 foot ceilings with glass windows, polished concrete floors, exposed brick & sculptural steel beams. The chef's kitchen has honed granite counters, high-end S/S appliances, French cabinets & gas range.",
+        "img": "https://i.ibb.co/SXcQTLB/property-9.jpg",
+        "bath": 3,
+        "bedrooms":5,
+        "garages":3,
+        "size":1750,
+        "buildin": "10/6/2020",
+        "amenities":"Air Conditoner,Dishwasher,Parking,Balcony,Bedding,Pool,Internet,Cable TV,Fridge"
+    },
+    {
+      
+        "propertyName": "Beautiful Flat in Manhattan",
+        "price": 2300000,
+        "description": "The home features private entry copper-clad door leading to salon with marble floors. Stunning great room has soaring 45 foot ceilings with glass windows, polished concrete floors, exposed brick & sculptural steel beams. The chef's kitchen has honed granite counters, high-end S/S appliances, French cabinets & gas range.",
+        "img": "https://i.ibb.co/wWvnTk1/property-10.jpg",
+        "bath": 4,
+        "bedrooms":8,
+        "garages":2,
+        "size":2320,
+        "buildin": "10/6/2020",
+        "amenities":"Air Conditoner,Dishwasher,Parking,Balcony,Bedding,Pool,Internet,Cable TV,Fridge"
+    }
+    
+    
+]

@@ -1,0 +1,8 @@
+
+.delete-btn:hover{
+    background-color: red !important;
+}
+
+.approve-btn:hover{
+    background-color: green !important;
+}
